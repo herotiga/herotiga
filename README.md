@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-trophy.vercel.app/?username=herotiga&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
+### Weekly development breakdown
 
-
-
+<!--START_SECTION:waka-->
+```text
+Bash   1 hr 17 mins    ███████████████▒░░░░░░░░░   61.74 % 
+YAML   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+TOML   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+HTML   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+C++    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+```
+<!--END_SECTION:waka-->
