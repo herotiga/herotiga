@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=herotiga)
 
-![](https://github-readme-stats.vercel.app/api?username=herotiga&theme=dark
+![](https://github-readme-stats.vercel.app/api?username=herotiga&theme=dark)
