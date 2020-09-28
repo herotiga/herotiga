@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=herotiga&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=herotiga)
+<img src="https://github-readme-stats.vercel.app/api?username=herotiga&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 - blog: [ownpress.icu](https://ownpress.icu/)
 - dribbble: [dribbble.com/herotiga](https://dribbble.com/herotiga)
