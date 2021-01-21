@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 
 - ✒️blog: [ownpress.icu](https://ownpress.icu/)
 - 📐dribbble: [dribbble.com/herotiga](https://dribbble.com/herotiga)
+- 🔭 I’m currently working on Nanjing, China
+- 🌱 I’m currently learning typescript
+- 📫 How to reach me: wechat(id: herotiga)
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=herotiga&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
